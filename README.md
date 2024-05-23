@@ -17,6 +17,6 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://bit.ly/3VeCukH
+git clone https://github.com/huzaifa-mern-dev/Code-Screenshot.git
 cd codescreenshot
 npm install
