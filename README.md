@@ -4,6 +4,9 @@
 
 <a href="https://bit.ly/3VeCukH">visit now</a>
 
+![CodeScreenshot Preview](./demo.png)
+
+
 ## Features
 
 - **Syntax Highlighting:** Supports multiple programming languages with accurate syntax highlighting.
@@ -21,5 +24,4 @@ git clone https://github.com/huzaifa-mern-dev/Code-Screenshot.git
 cd codescreenshot
 npm install
 
-![CodeScreenshot Preview]((https://github.com/huzaifa-mern-dev/Code-Screenshot/blob/main/demo.png))
 
